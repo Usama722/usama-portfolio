@@ -15,7 +15,7 @@ const portfolioConfig = {
 
         // Profile Images
         profileImage: "assets/images/dp.jpeg",  // آپ کی تصویر
-        aboutImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+        aboutImage: "assets/images/about.jpeg"
     },
 
     // ============ SOCIAL LINKS ============
